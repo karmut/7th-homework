@@ -1,0 +1,42 @@
+.card {
+    width: 350px;
+    height: 700px;
+    background-color: rgb(196, 168, 216);
+    padding: 10px;
+}
+
+.nike {
+    width: 350px;
+
+}
+
+.card2 {
+    width: 350px;
+    height: 350px;
+    background-color: white;
+
+}
+
+.title {
+    font-size: 25px;
+    margin-bottom: 15px;
+    margin-left: 105px;
+}
+
+.text {
+    font-size: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+}
+
+.money {
+    font-size: 22px;
+    margin-left: 135px;
+    margin-bottom: 100px;
+}
+
+.text2 {
+    font-size: 40px;
+    margin-left: 50px;
+    font-family: 'Rubik Moonrocks', cursive;
+}
